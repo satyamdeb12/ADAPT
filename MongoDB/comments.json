@@ -1,0 +1,27 @@
+{username : "GoodGuyGreg",
+comment : "Hope you got a good deal!",
+post : ObjectId("6001d8f15c78249c7d859e3f")//[post_obj_id] where [post_obj_id] is the ObjectId of the posts document: Borrows something"
+}
+
+
+
+{username : "GoodGuyGreg",
+comment : "What's mine is yours!",
+post : ObjectId("6001d8f15c78249c7d859e40")//[post_obj_id] where [post_obj_id] is the ObjectId of the posts document: Borrows everything"
+}
+
+
+{username : "GoodGuyGreg",
+comment : "Don't violate the licensing agreement!",
+post : ObjectId("6001d8f15c78249c7d859e41")ObjectId("6001d8f15c78249c7d859e3c")//[post_obj_id] where [post_obj_id] is the ObjectId of the posts document: Forks your repo on github"
+},
+
+{username : "ScumbagSteve",
+comment : "It still isn't clean",
+post : ObjectId("6001d8f15c78249c7d859e3c")//[post_obj_id] where [post_obj_id] is the ObjectId of the posts document: "Passes out at party"
+},
+
+{username : "ScumbagSteve",
+comment : "Denied your PR cause I found a hack",
+post : ObjectId("6001d8f15c78249c7d859e3e")//"[post_obj_id] where [post_obj_id] is the ObjectId of the posts document: "Reports a bug in your code"
+}

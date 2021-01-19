@@ -1,0 +1,11 @@
+{username : "GoodGuyGreg",
+first_name : "Good Guy",
+last_name : "Greg"
+},
+
+{username : "ScumbagSteve",
+full_name :{
+	first : "Scumbag",
+	last : "Steve"
+	}
+}
